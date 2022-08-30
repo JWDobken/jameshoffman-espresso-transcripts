@@ -13,7 +13,7 @@ Grinders:
 - [Product Review: Wilfa Uniform Grinder](./transcripts/TvmYngoL8RQ.md)
 - [Review: The Niche Zero Grinder](./transcripts/FzOY2tHyZ4w.md)
 - [Wilfa Uniform vs Niche Zero: One Year Later](./transcripts/dQiLVamJRdk.md)
-- [The Fellow Ode Grinder - 2020's Most Anticipated Coffee Product](./transcripts/QE4NT8MY-Zo)md)
+- [The Fellow Ode Grinder - 2020's Most Anticipated Coffee Product](./transcripts/QE4NT8MY-Zo.md)
 - [XeoLeo Vs Fellow Ode Vs Wilfa Uniform: A Grinder Comparison](./transcripts/bVqGgvMnp4M.md)
 - [The Option-O Lagom P-64 (Episode #1)](./transcripts/WeA-IqDEfMw.md)
 - [The Weber EG-1 (Episode #2)](./transcripts/-3mB4MBITEI.md)
