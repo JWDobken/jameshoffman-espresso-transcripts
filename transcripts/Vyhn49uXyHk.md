@@ -1,6 +1,6 @@
 ## Review: The Olympia Cremina
 
-<https://www.youtube.com/watch?v=Vyhn49uXyHk&t=330s>
+<https://www.youtube.com/watch?v=Vyhn49uXyHk>
 
 Today we're reviewing this.
 It's the Olympia Express Cremina.

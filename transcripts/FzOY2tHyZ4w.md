@@ -1,6 +1,6 @@
 ## Review: The Niche Zero Grinder
 
-<https://www.youtube.com/watch?v=FzOY2tHyZ4w&t=531s>
+<https://www.youtube.com/watch?v=FzOY2tHyZ4w>
 
 Today we're gonna review this,
 the Niche Zero Grinder.

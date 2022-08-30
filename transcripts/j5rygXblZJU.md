@@ -1,6 +1,6 @@
 ## Crema Explained
 
-<https://www.youtube.com/watch?v=j5rygXblZJU&t=302s>
+<https://www.youtube.com/watch?v=j5rygXblZJU>
 
 Today we're gonna talk about crema,
 that beautiful red-brown

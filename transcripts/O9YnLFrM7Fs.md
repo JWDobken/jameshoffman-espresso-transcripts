@@ -1,6 +1,6 @@
 ## A Beginner's Guide To Buying Great Coffee
 
-<https://www.youtube.com/watch?v=O9YnLFrM7Fs&t=804s>
+<https://www.youtube.com/watch?v=O9YnLFrM7Fs>
 
 welcome to today's video and the
 beginning of a series of sorts a

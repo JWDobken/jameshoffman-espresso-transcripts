@@ -1,6 +1,6 @@
-A Beginner's Guide to Coffee Grinders
----
-<https://www.youtube.com/watch?v=bgjvLQu5NlE&t=23s>
+## A Beginner's Guide to Coffee Grinders
+
+<https://www.youtube.com/watch?v=bgjvLQu5NlE>
 
 Welcome to today's video,
 which is a beginner's guide

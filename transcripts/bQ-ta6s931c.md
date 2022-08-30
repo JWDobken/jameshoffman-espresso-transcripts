@@ -1,6 +1,6 @@
 ## Weber Workshops Key Grinder Review
 
-<https://www.youtube.com/watch?v=bQ-ta6s931c&t=133s>
+<https://www.youtube.com/watch?v=bQ-ta6s931c>
 
 today we're going to look at this it's
 the key grinder from weber workshops

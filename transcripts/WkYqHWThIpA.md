@@ -1,6 +1,6 @@
 ## $50 vs $500 Vs $500,000 Coffee Grinder
 
-<https://www.youtube.com/watch?v=WkYqHWThIpA&t=459s>
+<https://www.youtube.com/watch?v=WkYqHWThIpA>
 
 I am so excited to make today's video,
 I've wanted to make this for years.

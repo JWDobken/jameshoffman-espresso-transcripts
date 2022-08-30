@@ -1,6 +1,6 @@
 ## How To Brew Better Dark Roasts
 
-<https://www.youtube.com/watch?v=lrRdRxAqMHc&t=250s>
+<https://www.youtube.com/watch?v=lrRdRxAqMHc>
 
 Come to today's video all about brewing
 better dark roasts as filter coffee.

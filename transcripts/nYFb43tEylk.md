@@ -1,6 +1,6 @@
 ## Why Modern Espresso Is So Ugly
 
-<https://www.youtube.com/watch?v=nYFb43tEylk&t=424s>
+<https://www.youtube.com/watch?v=nYFb43tEylk>
 
 Okay, okay, I know what you're thinking.
 You're thinking: This is clickbait.

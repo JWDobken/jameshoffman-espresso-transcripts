@@ -1,6 +1,6 @@
 ## The Best Smart Coffee Scale
 
-<https://www.youtube.com/watch?v=SIzFhnZ32Y0&t=1246s>
+<https://www.youtube.com/watch?v=SIzFhnZ32Y0>
 
 but you just were you just said just
 work today we're going to review smart

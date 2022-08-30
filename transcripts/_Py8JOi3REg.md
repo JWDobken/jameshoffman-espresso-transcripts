@@ -1,6 +1,6 @@
 ## A Beginner's Guide to Resting Coffee
 
-<https://www.youtube.com/watch?v=_Py8JOi3REg&t=677s>
+<https://www.youtube.com/watch?v=_Py8JOi3REg>
 
 today we're going to talk about resting
 coffee we're going to talk about the

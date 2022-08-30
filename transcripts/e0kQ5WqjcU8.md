@@ -1,6 +1,6 @@
 ## The Best Espresso Machine Under £1,500
 
-<https://www.youtube.com/watch?v=e0kQ5WqjcU8&t=1490s>
+<https://www.youtube.com/watch?v=e0kQ5WqjcU8>
 
 Welcome to today's video.
 Today, we're going to be looking

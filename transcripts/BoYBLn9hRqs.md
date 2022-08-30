@@ -1,6 +1,6 @@
 ## Did Science Just Reinvent Espresso?
 
-<https://www.youtube.com/watch?v=BoYBLn9hRqs&t=911s>
+<https://www.youtube.com/watch?v=BoYBLn9hRqs>
 
 Welcome to a special episode
 of Weird Coffee Science,

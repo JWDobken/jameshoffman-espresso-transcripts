@@ -1,6 +1,6 @@
 ## The DF64: Niche Killer?
 
-<https://www.youtube.com/watch?v=53lTlpjM2sQ&t=63s>
+<https://www.youtube.com/watch?v=53lTlpjM2sQ>
 
 Hi there.
 Today, we're gonna look at

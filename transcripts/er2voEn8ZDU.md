@@ -1,6 +1,6 @@
 ## Understanding Espresso - Grind Size (Episode #4)
 
-<https://www.youtube.com/watch?v=er2voEn8ZDU&t=401s>
+<https://www.youtube.com/watch?v=er2voEn8ZDU>
 
 Welcome to the understanding
 espresso series.

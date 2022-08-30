@@ -1,6 +1,6 @@
 ## Decolonising Coffee Through Flavour
 
-<https://www.youtube.com/watch?v=DLv2Fzhktb0&t=542s>
+<https://www.youtube.com/watch?v=DLv2Fzhktb0>
 
 Hello and welcome.
 I'm Raghunath, and my wife

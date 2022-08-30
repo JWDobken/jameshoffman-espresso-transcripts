@@ -1,6 +1,6 @@
 ## Understanding Espresso: Pressure (Episode #6)
 
-<https://www.youtube.com/watch?v=po3oGIicu-8&t=745s>
+<https://www.youtube.com/watch?v=po3oGIicu-8>
 
 Welcome to the final installment
 of Understanding Espresso.
