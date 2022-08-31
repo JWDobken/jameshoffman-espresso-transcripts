@@ -6,7 +6,9 @@ I kept in all videos interesting for making espresso: machines, grinders, tools,
 
 I left out everything about capucchino, v60, hand grinders, moka pots, history, etc. Not that these are not interesting to watch.
 
-Grinders:
+> But for now, I'll say thank you so much for watching, and I hope you have a great day.
+
+## Grinders
 
 - [Grinder Review: Wilfa Svart](./transcripts/aChUZZOp654.md)
 - [Grinder Showdown: Wilfa Svart vs Baratza Encore](./transcripts/1gm6UfD9qSc.md)
@@ -27,7 +29,7 @@ Grinders:
 - [$50 vs $500 Vs $500,000 Coffee Grinder](./transcripts/WkYqHWThIpA.md)
 - [Weber Workshops Key Grinder Review](./transcripts/bQ-ta6s931c.md)
 
-Machines:
+## Machines
 
 - [First Look: Decent DE1+ Espresso Machine](./transcripts/nUb5O7lQKbE.md)
 - [Product Review: Decent DE1+ Espresso Machine](./transcripts/1poWV0OLSMA.md)
@@ -40,7 +42,7 @@ Machines:
 - [Buying A Vintage Espresso Machine](./transcripts/6Kv1e00rCbc.md)
 - [ZPM: The Kickstarter Failure That Revolutionised Espresso](./transcripts/GKA2COJRt6M.md)
 
-Understanding and techniques videos:
+## Understanding and techniques videos
 
 - [Topic: Brewing At Home Q&A](./transcripts/yZkIoU4OO5A.md)
 - [What No One Tells You About Learning To Taste](./transcripts/tU1y7hBSgiY.md)
@@ -68,7 +70,7 @@ Understanding and techniques videos:
 - [A Beginner's Guide to Resting Coffee](./transcripts/_Py8JOi3REg.md)
 - [There Is No "World's Strongest Coffee"](./transcripts/8jAMOAmYCJI.md)
 
-Tools:
+## Tools
 
 - [The Best Smart Coffee Scale](./transcripts/SIzFhnZ32Y0.md)
 - [The Smart Espresso Profiler Review](./transcripts/ckBWoRHkUZ4.md)
@@ -76,7 +78,7 @@ Tools:
 - [Espresso Machine Baskets Explained](./transcripts/3oFV88PzEFE.md)
 - [How I Make Espresso: Tools and Techniques](./transcripts/xb3IxAr4RCo.md)
 
-Other:
+## Other
 
 - [Decolonising Coffee Through Flavour](./transcripts/DLv2Fzhktb0.md)
 - [The Exciting Potential Of Amazonian Robusta?](./transcripts/_qiwccma8Hs.md)
